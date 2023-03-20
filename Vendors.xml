@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vendors>
+    <Vendor>
+        <Name>Sbisa Co.</Name>
+        <Address>4292 Newland Lane</Address>
+        <City>New Orleans</City>
+        <State>Louisiana</State>
+        <ZIP>77805</ZIP>
+        <Phone>9797784456</Phone>
+        <YTD>2500000</YTD>
+        <Comment>Great vendor</Comment>
+        <Contact>James Scarmado</Contact>
+        <DefaultDiscount>15</DefaultDiscount>
+    </Vendor>
+    <Vendor>
+        <Name>Talbort Restaurant Supplies</Name>
+        <Address>2533 Broadway Ave.</Address>
+        <City>New Orleans</City>
+        <State>LA USA</State>
+        <ZIP>89554</ZIP>
+        <Phone>7664028762</Phone>
+        <YTD>1589000</YTD>
+        <Comment />
+        <Contact>Joan Fishing</Contact>
+        <DefaultDiscount>20</DefaultDiscount>
+    </Vendor>
+    <Vendor>
+        <Name>Famous Meats</Name>
+        <Address>222 Swey Ave.</Address>
+        <City>Bangkok</City>
+        <State>Thailand</State>
+        <ZIP>75110</ZIP>
+        <Phone>883778723</Phone>
+        <YTD>186000</YTD>
+        <Comment>Good vendor</Comment>
+        <Contact>Faye Smith</Contact>
+        <DefaultDiscount>15</DefaultDiscount>
+    </Vendor>
+    <Vendor>
+        <Name>Duetsch Products</Name>
+        <Address>253 Hamburg Ave.</Address>
+        <City>Hamburg</City>
+        <State>Germany</State>
+        <ZIP>APO 76632</ZIP>
+        <Phone>109019834</Phone>
+        <YTD>258260</YTD>
+        <Comment>Difficult delivery system</Comment>
+        <Contact>Ian Friberg</Contact>
+        <DefaultDiscount>20</DefaultDiscount>
+    </Vendor>
+    <Vendor>
+        <Name>Allegheny Drink Products</Name>
+        <Address>2862 Hamilton St.</Address>
+        <City>Dallas</City>
+        <State>Texas</State>
+        <ZIP>80256</ZIP>
+        <Phone>7149872957000</Phone>
+        <YTD>875390</YTD>
+        <Comment />
+        <Contact>Cheryl Montana</Contact>
+        <DefaultDiscount>15</DefaultDiscount>
+    </Vendor>
+    <Vendor>
+        <Name>Best Cheeses Around</Name>
+        <Address>2732 Gouda Ct.</Address>
+        <City>Lincoln</City>
+        <State>Nebraska USA</State>
+        <ZIP>67499</ZIP>
+        <Phone>4028776509</Phone>
+        <YTD>679270</YTD>
+        <Comment />
+        <Contact>Dave Pfister</Contact>
+        <DefaultDiscount>15</DefaultDiscount>
+    </Vendor>
+</Vendors>
